@@ -1,0 +1,61 @@
+ # Copyright (c) 2022, salesforce.com, inc.
+ # All rights reserved.
+ # SPDX-License-Identifier: BSD-3-Clause
+ # For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+
+model:
+  arch: instruct_vicuna7b
+  load_finetuned: False
+  load_pretrained: True
+
+  # pretrained: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/InstructBLIP/instruct_blip_vicuna7b_trimmed.pth"
+  pretrained: "/mnt/data2/.cache/huggingface/hub/models--instructblip-vicuna7b-trimmed/instruct_blip_vicuna7b_trimmed.pth"
+  finetuned: ""
+
+  # vit encoder
+  image_size: 224
+  drop_path_rate: 0
+  use_grad_checkpoint: False
+  vit_precision: "fp16"
+  freeze_vit: True
+
+  # Q-Former
+  num_query_token: 32
+
+  # path to Vicuna checkpoint
+  llm_model: "lmsys/vicuna-7b-v1.1"
+
+  # generation configs
+  prompt: ""
+
+  # gzh add here
+  # contrastive tuning configs
+  output_hidden_states: False # help="whether to store hidden states of llama decoder layer"
+  contrastive_layer: 16 # type:int help="llama decoder layer for contrastive tuning"
+  sim_type: "seq" # "seq" or "masked_seq" or "token" :choose which embedding to compute similarity 
+
+  # cluster loss
+  use_cluster: False
+  cluster_margin: 1.0 
+  cluster_metric: "cos" #"l2" or "cos"
+
+  # triplet loss
+  use_triplet: False
+  use_random_sampling: True
+  use_online_ranking: True
+  use_preprocess_sampling: True
+
+
+preprocess:
+    vis_processor:
+        train:
+          name: "blip2_image_train"
+          image_size: 224
+        eval:
+          name: "blip_image_eval"
+          image_size: 224
+    text_processor:
+        train:
+          name: "blip_caption"
+        eval:
+          name: "blip_caption"

@@ -1,0 +1,6 @@
+fhm_lora_cluster/
+hf-peft/ContrastiveFT-Qwen2.5-7B
+hf-peft/logs/*
+hf-peft/wandb/*
+lavis/archived/
+lavis/output/

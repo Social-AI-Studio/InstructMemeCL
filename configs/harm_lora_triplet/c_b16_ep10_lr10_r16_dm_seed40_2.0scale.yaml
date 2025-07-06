@@ -1,0 +1,118 @@
+ # Copyright (c) 2022, salesforce.com, inc.
+ # All rights reserved.
+ # SPDX-License-Identifier: BSD-3-Clause
+ # For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+
+model:
+  arch: blip2_vicuna_instruct_lora #instruct_vicuna7b
+  model_type: vicuna7b #对应一个default model config
+  load_finetuned: False
+  load_pretrained: True #True
+  # pretrained: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/InstructBLIP/instruct_blip_vicuna7b_trimmed.pth"
+  # pretrained: "/mnt/dolphinfs/ssd_pool/docker/user/hadoop-automl/gaozihan04/hatediffusion/lavis-main-4/lavis/output/harm_lora_cluster/ep10_margin3_scale0.1/seed/2023101410312/checkpoint_best.pth"
+  pretrained: "/mnt/data2/.cache/huggingface/hub/models--instructblip-vicuna7b-trimmed/instruct_blip_vicuna7b_trimmed.pth"
+  finetuned: ""
+
+  # vit encoder
+  image_size: 224
+  drop_path_rate: 0
+  use_grad_checkpoint: True
+  freeze_vit: True #True
+
+  # lora hyper-parameters
+  lora_r: 16
+  lora_alpha: 16
+  lora_dropout: 0.1
+  lora_target_modules: ['q_proj', 'v_proj']
+
+  #Q-Former
+  num_query_token: 32
+
+  # path to Vicuna checkpoint
+  llm_model: "lmsys/vicuna-7b-v1.1"
+
+  # generation configs
+  prompt: ""
+
+  # contrastive tuning configs
+  output_hidden_states: True # help="whether to store hidden states of llama decoder layer"
+  contrastive_layer: 32 # type:int help="llama decoder layer for contrastive tuning"
+  sim_type: "masked_seq" # "seq" or "masked_seq" or "token" :choose which embedding to compute similarity 
+
+  # cluster loss
+  use_cluster: True
+  cluster_margin: 3.0 
+  cluster_metric: "cos" #"l2" or "cos"
+  cluster_scale: 2.0
+  use_online_ranking: False
+
+  # triplet loss
+  use_triplet: True
+  triplet_margin: 1.0 
+  triplet_metric: "cos" #"l2" or "cos"
+  triplet_scale: 2.0
+  
+datasets:
+  meme_classification: # name of the dataset builder, 对应一个default dataset config
+    # use_preprocess_sampling: False # meme_classification_triplet这个参数才有效
+    # sampling_topk: 2
+    # clip_sim_path: "/mnt/dolphinfs/ssd_pool/docker/user/hadoop-automl/gaozihan04/hatediffusion/prompthate-main/feature/similarity_1_mem.pkl"
+    vis_processor:
+        train:
+          name: "blip2_image_train"
+          image_size: 224
+        eval:
+          name: "blip_image_eval"
+          image_size: 224
+    text_processor:
+        train:
+          name: "blip_meme"
+        eval:
+          name: "blip_meme"
+    build_info:
+      # Be careful not to append minus sign (-) before split to avoid itemizing
+      annotations:
+        train:
+          storage: /mnt/data1/mshee/ContrastiveFineTune/lavis-main-5/datasets/harm_aug_classification_train.json
+        val:
+          storage:  /mnt/data1/mshee/ContrastiveFineTune/lavis-main-5/datasets/harm_aug_classification_test.json
+      images:
+        train:
+          storage: /mnt/data1/datasets/memes/harmeme/images/deepfillv2
+        val:
+          storage: /mnt/data1/datasets/memes/harmeme/images/deepfillv2
+
+run:
+  task: meme_classification
+  # optimizer
+  lr_sched: "linear_warmup_cosine_lr"
+  init_lr: 1e-4
+  min_lr: 0
+  warmup_lr: 1e-7
+  warmup_steps: 500
+  weight_decay: 0.05
+  max_epoch: 10
+  batch_size_train: 18 #6*3=18
+  batch_size_eval: 16
+  num_workers: 16
+  accum_grad_iters: 1
+
+  max_len: 10
+  min_len: 1
+  num_beams: 1
+
+  seed: 40
+  output_dir: "output/harm_lora_triplet/c3.0_t1.0_2.0/seed40"
+
+  amp: True
+  resume_ckpt_path: null
+
+  evaluate: False
+  train_splits: ["train"]
+  valid_splits: ["val"]
+  test_splits: ["test"]
+
+  device: "cuda"
+  world_size: 1
+  dist_url: "env://"
+  distributed: True

@@ -1,0 +1,3502 @@
+[
+    {
+        "id": 0,
+        "image": "08291.png",
+        "text_input": "This is an image with: ' { white people is this a shooting range } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 1,
+        "image": "46971.png",
+        "text_input": "This is an image with: ' { bravery at its finest } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 2,
+        "image": "03745.png",
+        "text_input": "This is an image with: ' { your order comes to 3750 and your white privilege discount brings the total to 3750 } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 3,
+        "image": "83745.png",
+        "text_input": "This is an image with: ' { it is time to send these parasites back to the desert } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 4,
+        "image": "80243.png",
+        "text_input": "This is an image with: ' { mississippi wind chime } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 5,
+        "image": "05279.png",
+        "text_input": "This is an image with: ' { knowing white people that is probably the baby father } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 6,
+        "image": "01796.png",
+        "text_input": "This is an image with: ' { life hack #23 how to get stoned with no weed } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 7,
+        "image": "53046.png",
+        "text_input": "This is an image with: ' { you have heard of elf on a shelf now get ready for } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 8,
+        "image": "82301.png",
+        "text_input": "This is an image with: ' { coon } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 9,
+        "image": "31752.png",
+        "text_input": "This is an image with: ' { when you get to choose your own mental illness } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 10,
+        "image": "27635.png",
+        "text_input": "This is an image with: ' { dat ass ahmarbkrichd } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 11,
+        "image": "80597.png",
+        "text_input": "This is an image with: ' { look it says it right here we can fuck goats } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 12,
+        "image": "45368.png",
+        "text_input": "This is an image with: ' { enough is enough children are more important than freaks } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 13,
+        "image": "17963.png",
+        "text_input": "This is an image with: ' { removes polish with chemicals nobody bats an eye removes polish with chemicals everybody loses his shit } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 14,
+        "image": "53968.png",
+        "text_input": "This is an image with: ' { when you have an 80 point iq but it is the highest in your village } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 15,
+        "image": "10749.png",
+        "text_input": "This is an image with: ' { my sense of humor is so dark it picks cotton } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 16,
+        "image": "25149.png",
+        "text_input": "This is an image with: ' { if this offends you you might be lack toes intolerant } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 17,
+        "image": "87520.png",
+        "text_input": "This is an image with: ' { yes we know trump said mexico will pay for the wall but now mexicans are the wall that boy good } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 18,
+        "image": "89071.png",
+        "text_input": "This is an image with: ' { they do not wash their ass with water and they eat their daughters ass } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 19,
+        "image": "09563.png",
+        "text_input": "This is an image with: ' { safe sex isis style } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 20,
+        "image": "72048.png",
+        "text_input": "This is an image with: ' { hurry up barack will be home soon } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 21,
+        "image": "49826.png",
+        "text_input": "This is an image with: ' { white people on cinco de mayo vs every other day } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 22,
+        "image": "26453.png",
+        "text_input": "This is an image with: ' { a ww2 jewish prisoner trying to escape the auchschwitz showers 1943 colorized wwii jew escaping hitler rath } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 23,
+        "image": "12650.png",
+        "text_input": "This is an image with: ' { which one has tranny problems } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 24,
+        "image": "02568.png",
+        "text_input": "This is an image with: ' { whatsthe difference between heroin and i cops think twice before shooting heroin } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 25,
+        "image": "83954.png",
+        "text_input": "This is an image with: ' { head teachers given the power to ban the burqa in british schools share if you want a full ban in britain } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 26,
+        "image": "24316.png",
+        "text_input": "This is an image with: ' { sharks do not attack him why they think it is whale shit } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 27,
+        "image": "62035.png",
+        "text_input": "This is an image with: ' { thank god my ass needed a break } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 28,
+        "image": "65342.png",
+        "text_input": "This is an image with: ' { barn army enlist and bomb ant hills grab your pitchfork and meet at the barn } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 29,
+        "image": "92058.png",
+        "text_input": "This is an image with: ' { how black people became christians } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 30,
+        "image": "58672.png",
+        "text_input": "This is an image with: ' { did you know that the chinese eat dogs savages disgusting } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 31,
+        "image": "54069.png",
+        "text_input": "This is an image with: ' { when you decide to go full gas } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 32,
+        "image": "91586.png",
+        "text_input": "This is an image with: ' { left the kitchen too many times } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 33,
+        "image": "87130.png",
+        "text_input": "This is an image with: ' { finally finding the right tutorial you need indian accent } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 34,
+        "image": "95640.png",
+        "text_input": "This is an image with: ' { syrian rape survivor speaks out } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 35,
+        "image": "47819.png",
+        "text_input": "This is an image with: ' { oh addiction is not a disease because it started with a choice tell me more about how the chlamydia in your crotch is not a disease yet it started with a choice } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 36,
+        "image": "59140.png",
+        "text_input": "This is an image with: ' { want to go masturbate fuck yeah masturbating } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 37,
+        "image": "13647.png",
+        "text_input": "This is an image with: ' { she said girls run the world so i told her get back in the kitchen } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 38,
+        "image": "65832.png",
+        "text_input": "This is an image with: ' { why love one but eat the other i do not get it } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 39,
+        "image": "57621.png",
+        "text_input": "This is an image with: ' { if this gets 1k likes i will post to islam how we see muslims how muslims see us } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 40,
+        "image": "40982.png",
+        "text_input": "This is an image with: ' { and just like that this sandwich maker doubles as ironing board } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 41,
+        "image": "43275.png",
+        "text_input": "This is an image with: ' { my husband is always pushing me around and talking behind my back } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 42,
+        "image": "12973.png",
+        "text_input": "This is an image with: ' { someone added to much soap to the dishwasher again } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 43,
+        "image": "74350.png",
+        "text_input": "This is an image with: ' { a head diaper is required when you have shit for brains } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 44,
+        "image": "02478.png",
+        "text_input": "This is an image with: ' { mustresisturge to kill whitey } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 45,
+        "image": "51607.png",
+        "text_input": "This is an image with: ' { 49 people were killed at christchurch muslim 49 people were killed at christchurch mosques muslim } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 46,
+        "image": "65403.png",
+        "text_input": "This is an image with: ' { money is evil give it to us } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 47,
+        "image": "29750.png",
+        "text_input": "This is an image with: ' { this cat is getting raped tonight } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 48,
+        "image": "26547.png",
+        "text_input": "This is an image with: ' { that is the way allah allah i like it } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 49,
+        "image": "02143.png",
+        "text_input": "This is an image with: ' { doesnt have food water electricity proud of nuclear weapons } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 50,
+        "image": "68192.png",
+        "text_input": "This is an image with: ' { scientist are working hard to cure them all } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 51,
+        "image": "52603.png",
+        "text_input": "This is an image with: ' { feeling kinda cute might steal your shit later i do not know } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 52,
+        "image": "05349.png",
+        "text_input": "This is an image with: ' { normal day in a islamic country } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 53,
+        "image": "06491.png",
+        "text_input": "This is an image with: ' { tranny for sale } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 54,
+        "image": "74013.png",
+        "text_input": "This is an image with: ' { nurse yes sir we are having mashed potatoes today alzheimer patient i do not remember asking you a god damn thing } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 55,
+        "image": "27485.png",
+        "text_input": "This is an image with: ' { that is the way allah allah i like it } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 56,
+        "image": "13026.png",
+        "text_input": "This is an image with: ' { under the name of multiculturalism we let terrorist into this country } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 57,
+        "image": "17265.png",
+        "text_input": "This is an image with: ' { meanwhile in baltimore } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 58,
+        "image": "91405.png",
+        "text_input": "This is an image with: ' { wears rag on her head so her brother husband doesnt want to molest her } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 59,
+        "image": "14026.png",
+        "text_input": "This is an image with: ' { told girlfriend that mom is deaf so speak loud and slow told mom that girlfriend is retarded } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 60,
+        "image": "18945.png",
+        "text_input": "This is an image with: ' { when you decide to go full gas } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 61,
+        "image": "83920.png",
+        "text_input": "This is an image with: ' { just under 17 and a half years ago 19 people were allowed into the us who should not have been all these years later we are told that the answer to safety is to allow everyone in } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 62,
+        "image": "83497.png",
+        "text_input": "This is an image with: ' { different types of radicalization } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 63,
+        "image": "04569.png",
+        "text_input": "This is an image with: ' { when is the time to eat i am hungry } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 64,
+        "image": "39607.png",
+        "text_input": "This is an image with: ' { those stupid basterds thought it was a real shower } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 65,
+        "image": "09715.png",
+        "text_input": "This is an image with: ' { i started a business that sells landmines disguised as prayer mats prophets are going through the roof } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 66,
+        "image": "01925.png",
+        "text_input": "This is an image with: ' { i am not racist i just do not like brown sugar } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 67,
+        "image": "94813.png",
+        "text_input": "This is an image with: ' { that is the way allah allah i like it } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 68,
+        "image": "29437.png",
+        "text_input": "This is an image with: ' { what can happen if you eat wheaties for 38 years } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 69,
+        "image": "95038.png",
+        "text_input": "This is an image with: ' { when you take these pictures we think about cumming in your mouth } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 70,
+        "image": "64891.png",
+        "text_input": "This is an image with: ' { lebanon before muslims after muslims but do not worry after islam takes over therell be a golden age apparently } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 71,
+        "image": "63280.png",
+        "text_input": "This is an image with: ' { so you are never going to forgive the germans because of the holocaust same } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 72,
+        "image": "17682.png",
+        "text_input": "This is an image with: ' { give them what they deserve kill them all } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 73,
+        "image": "84510.png",
+        "text_input": "This is an image with: ' { bartender how about a nice 12 yr old him boy or girl } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 74,
+        "image": "28690.png",
+        "text_input": "This is an image with: ' { if you are gonna talk shit about someone you better make sure they are not crazier than you are } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 75,
+        "image": "03567.png",
+        "text_input": "This is an image with: ' { potato is my favorite color of the alphabet } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 76,
+        "image": "95830.png",
+        "text_input": "This is an image with: ' { face of terrorism in us } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 77,
+        "image": "29873.png",
+        "text_input": "This is an image with: ' { who knew that this country is full of white trash } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 78,
+        "image": "70953.png",
+        "text_input": "This is an image with: ' { god chosen people according to the book they wrote } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 79,
+        "image": "56124.png",
+        "text_input": "This is an image with: ' { how to cook turkey in usa how to cook turkey in romania } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 80,
+        "image": "10386.png",
+        "text_input": "This is an image with: ' { the book about terrorism } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 81,
+        "image": "19530.png",
+        "text_input": "This is an image with: ' { they shot the wrong gorilla } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 82,
+        "image": "94185.png",
+        "text_input": "This is an image with: ' { how a black woman can fight crime } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 83,
+        "image": "48370.png",
+        "text_input": "This is an image with: ' { 72 virgins are ready to get fucked up } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 84,
+        "image": "74058.png",
+        "text_input": "This is an image with: ' { he made millions of children homeless } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 85,
+        "image": "45062.png",
+        "text_input": "This is an image with: ' { me and my kids are going to rob this country blind at the expense of the very people that voted for me and they are going to love it believe me bigly } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 86,
+        "image": "94170.png",
+        "text_input": "This is an image with: ' { when you decide to go full gas } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 87,
+        "image": "04538.png",
+        "text_input": "This is an image with: ' { bows here bows there bows everywhere } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 88,
+        "image": "83946.png",
+        "text_input": "This is an image with: ' { when a white kid shoots up the school the same day you planned to bomb it } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 89,
+        "image": "68127.png",
+        "text_input": "This is an image with: ' { all you guys think about is dope } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 90,
+        "image": "97453.png",
+        "text_input": "This is an image with: ' { potato is my favorite color of the alphabet } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 91,
+        "image": "39578.png",
+        "text_input": "This is an image with: ' { one of the bullets they dug out of a victim from the orland gay night club shooting } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 92,
+        "image": "49360.png",
+        "text_input": "This is an image with: ' { who wants ice cream me me me } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 93,
+        "image": "87034.png",
+        "text_input": "This is an image with: ' { you do not need a parachute to go skydiving twice you need a parachute to go skydiving twice } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 94,
+        "image": "06123.png",
+        "text_input": "This is an image with: ' { a group of men } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 95,
+        "image": "17028.png",
+        "text_input": "This is an image with: ' { feeling bored let us go to a mosque } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 96,
+        "image": "42903.png",
+        "text_input": "This is an image with: ' { those stupid basterds thought it was a real shower } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 97,
+        "image": "71680.png",
+        "text_input": "This is an image with: ' { muslim strip club } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 98,
+        "image": "24135.png",
+        "text_input": "This is an image with: ' { good night keep your butthole tight } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 99,
+        "image": "32875.png",
+        "text_input": "This is an image with: ' { if he wears number one he is most likely the fastes on the team } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 100,
+        "image": "79085.png",
+        "text_input": "This is an image with: ' { today we are making vegetable soup } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 101,
+        "image": "61872.png",
+        "text_input": "This is an image with: ' { do not be a fool it is a bomb } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 102,
+        "image": "30579.png",
+        "text_input": "This is an image with: ' { white power } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 103,
+        "image": "62504.png",
+        "text_input": "This is an image with: ' { we have taken this country now fuck off we are taking it back } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 104,
+        "image": "43810.png",
+        "text_input": "This is an image with: ' { how to cook turkey in usa how to cook turkey in romania } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 105,
+        "image": "19730.png",
+        "text_input": "This is an image with: ' { jamal is practicing for class sport } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 106,
+        "image": "37420.png",
+        "text_input": "This is an image with: ' { like lebanon terrorism can destroy a beautiful country } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 107,
+        "image": "82509.png",
+        "text_input": "This is an image with: ' { 72 virgins are ready to get fucked up } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 108,
+        "image": "96284.png",
+        "text_input": "This is an image with: ' { welcome to melbourne } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 109,
+        "image": "97068.png",
+        "text_input": "This is an image with: ' { these hitler jokes are rude anne frankly i do not care } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 110,
+        "image": "03214.png",
+        "text_input": "This is an image with: ' { bartender how about a nice 12 yr old him boy or girl } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 111,
+        "image": "23810.png",
+        "text_input": "This is an image with: ' { these are not people } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 112,
+        "image": "91836.png",
+        "text_input": "This is an image with: ' { one of my 5 boyfriends slept with another girl i will never trust men again } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 113,
+        "image": "05126.png",
+        "text_input": "This is an image with: ' { can you smell what the reich is cooking } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 114,
+        "image": "76092.png",
+        "text_input": "This is an image with: ' { everybody is afraid of gangs } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 115,
+        "image": "64072.png",
+        "text_input": "This is an image with: ' { trump said immigrants come here to steal your wife is a great example she stole my speech } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 116,
+        "image": "91058.png",
+        "text_input": "This is an image with: ' { get in loser we are invading poland } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 117,
+        "image": "21643.png",
+        "text_input": "This is an image with: ' { haha pig man is peeing standing up } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 118,
+        "image": "19523.png",
+        "text_input": "This is an image with: ' { they see them rollin they hating } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 119,
+        "image": "32691.png",
+        "text_input": "This is an image with: ' { this is how muslims celebrate new year } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 120,
+        "image": "87169.png",
+        "text_input": "This is an image with: ' { albanians talking photo with a porn star } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 121,
+        "image": "92738.png",
+        "text_input": "This is an image with: ' { they are the best in basketball because they can steal shoot and run } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 122,
+        "image": "53027.png",
+        "text_input": "This is an image with: ' { putting bows on your pet } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 123,
+        "image": "27195.png",
+        "text_input": "This is an image with: ' { there is a reason we keep the beer in the bottom of the cooler } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 124,
+        "image": "43910.png",
+        "text_input": "This is an image with: ' { i just started a company selling landmines that look like prayer mats prophets are going through the roof } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 125,
+        "image": "05213.png",
+        "text_input": "This is an image with: ' { the families of the hillsborough tragedy were denied legal aid but shamima begum gets it to fight for her uk citizenship our system is a sick joke martin costello } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 126,
+        "image": "73945.png",
+        "text_input": "This is an image with: ' { jamal is holding a gun } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 127,
+        "image": "56207.png",
+        "text_input": "This is an image with: ' { we broke up but she said we could still be cousins } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 128,
+        "image": "68459.png",
+        "text_input": "This is an image with: ' { family trip in mexico } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 129,
+        "image": "63175.png",
+        "text_input": "This is an image with: ' { if i was uncircumcised i would hide candy in my dick skin so when a girl about to suck me up she has a pleasant surprise oh my god skittles } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 130,
+        "image": "82945.png",
+        "text_input": "This is an image with: ' { be careful who you call ugly in highschool } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 131,
+        "image": "34975.png",
+        "text_input": "This is an image with: ' { what if the only reason mary got pregnant is because god is gay and needed a surrogate } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 132,
+        "image": "61973.png",
+        "text_input": "This is an image with: ' { what do alcoholics and necrophiliacs have in common they both love to crack open a cold one } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 133,
+        "image": "16420.png",
+        "text_input": "This is an image with: ' { abnormal vs normal } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 134,
+        "image": "73069.png",
+        "text_input": "This is an image with: ' { immigration invasion learn the difference } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 135,
+        "image": "47056.png",
+        "text_input": "This is an image with: ' { illegal aliens are not welcome } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 136,
+        "image": "56428.png",
+        "text_input": "This is an image with: ' { if the shocker do not rock her spock her } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 137,
+        "image": "54206.png",
+        "text_input": "This is an image with: ' { you can smell disgust and hate from this photo } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 138,
+        "image": "93172.png",
+        "text_input": "This is an image with: ' { this is a terrorist } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 139,
+        "image": "56980.png",
+        "text_input": "This is an image with: ' { coffee is not helping get the jumper cables } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 140,
+        "image": "79615.png",
+        "text_input": "This is an image with: ' { what women think men want what men really want } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 141,
+        "image": "38047.png",
+        "text_input": "This is an image with: ' { stupid bitch is not a race } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 142,
+        "image": "94560.png",
+        "text_input": "This is an image with: ' { and for my next class project } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 143,
+        "image": "96250.png",
+        "text_input": "This is an image with: ' { i am going home i am russian } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 144,
+        "image": "28951.png",
+        "text_input": "This is an image with: ' { if the brim of your hat is flat and has a sticker on it i automatically assume you are a complete tool } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 145,
+        "image": "27614.png",
+        "text_input": "This is an image with: ' { maybe if you think before you act you would be treated better } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 146,
+        "image": "04857.png",
+        "text_input": "This is an image with: ' { even the dumb jews know that trump is a racist } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 147,
+        "image": "79603.png",
+        "text_input": "This is an image with: ' { its friday cunts lets get on the gas } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 148,
+        "image": "26985.png",
+        "text_input": "This is an image with: ' { i just heard my girlfriend is pregnant } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 149,
+        "image": "14873.png",
+        "text_input": "This is an image with: ' { human dna found in ancient goat carcass scientists believe this is first proof muhammad existed } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 150,
+        "image": "54893.png",
+        "text_input": "This is an image with: ' { old people at weddings always poke me and say youre next so i started doing the same thing to them at funerals } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 151,
+        "image": "48236.png",
+        "text_input": "This is an image with: ' { that blood you donated could be in someone boner right now } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 152,
+        "image": "74908.png",
+        "text_input": "This is an image with: ' { she is condemning shooting the gorilla } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 153,
+        "image": "96472.png",
+        "text_input": "This is an image with: ' { white power } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 154,
+        "image": "89430.png",
+        "text_input": "This is an image with: ' { when you know you do not have to jackoff tonight } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 155,
+        "image": "76921.png",
+        "text_input": "This is an image with: ' { she probably asked a wrong question } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 156,
+        "image": "68409.png",
+        "text_input": "This is an image with: ' { for the last time i am not michelle obama } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 157,
+        "image": "16354.png",
+        "text_input": "This is an image with: ' { we have taken this country now fuck off we are taking it back } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 158,
+        "image": "69548.png",
+        "text_input": "This is an image with: ' { wait mohammad come back i did not mean to laugh really size dosent matter to me laugh out loud } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 159,
+        "image": "01456.png",
+        "text_input": "This is an image with: ' { they see them rollin they hating } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 160,
+        "image": "17950.png",
+        "text_input": "This is an image with: ' { i was excoriated for a harmless tweet and my show was cancelled } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 161,
+        "image": "76295.png",
+        "text_input": "This is an image with: ' { islamic extremist planning new project } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 162,
+        "image": "42580.png",
+        "text_input": "This is an image with: ' { jack and jill went up the hill so jack could lick her candy but jack got a shock and a mouthful of cock because jills real name was randy } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 163,
+        "image": "96180.png",
+        "text_input": "This is an image with: ' { putting bows on your pet } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 164,
+        "image": "98701.png",
+        "text_input": "This is an image with: ' { oh no i cannot steal anymore } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 165,
+        "image": "15243.png",
+        "text_input": "This is an image with: ' { 4 am everyone is asleep perfect time to run from one end of the house to the other at full speed as loudly as possible } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 166,
+        "image": "41058.png",
+        "text_input": "This is an image with: ' { john wilkes booth be like yall sure abraham lincoln dead he aint up here } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 167,
+        "image": "62375.png",
+        "text_input": "This is an image with: ' { i am not saying i am racist i am just saying all muslims are terrorists } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 168,
+        "image": "63507.png",
+        "text_input": "This is an image with: ' { evolution from peeling bananas to busting caps } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 169,
+        "image": "31208.png",
+        "text_input": "This is an image with: ' { maybe if we were not consistent sources of crime we would be treated better } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 170,
+        "image": "62319.png",
+        "text_input": "This is an image with: ' { america in 2045 grandpawhy did not you stop them } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 171,
+        "image": "68253.png",
+        "text_input": "This is an image with: ' { free blanket maybe white man not so bad after all } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 172,
+        "image": "34687.png",
+        "text_input": "This is an image with: ' { everyone is afraid of dark } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 173,
+        "image": "34209.png",
+        "text_input": "This is an image with: ' { how about a nice 12 yr old bartender him boy i would love that } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 174,
+        "image": "39827.png",
+        "text_input": "This is an image with: ' { kick them out of country } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 175,
+        "image": "46920.png",
+        "text_input": "This is an image with: ' { we want sharia law  well go home } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 176,
+        "image": "84273.png",
+        "text_input": "This is an image with: ' { when you are the reason for the company safety video } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 177,
+        "image": "39018.png",
+        "text_input": "This is an image with: ' { she said i want a ring i said bitch take your phone off silent } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 178,
+        "image": "54780.png",
+        "text_input": "This is an image with: ' { travel size coffee maker } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 179,
+        "image": "69150.png",
+        "text_input": "This is an image with: ' { white privilege the privilege of being called racist by other people who see nothing else about you except the color of your skin } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 180,
+        "image": "29843.png",
+        "text_input": "This is an image with: ' { the world most wanted terrorist obama bin lying } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 181,
+        "image": "19385.png",
+        "text_input": "This is an image with: ' { rose are red violet are blue little stupid ass bitch i is not fuckin witchu } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 182,
+        "image": "64510.png",
+        "text_input": "This is an image with: ' { mohammad won the contest in putting underwear on goats } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 183,
+        "image": "47103.png",
+        "text_input": "This is an image with: ' { maybe we were not consistent sources of crime we would be treated better } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 184,
+        "image": "61038.png",
+        "text_input": "This is an image with: ' { no wonder why the pipes are not working } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 185,
+        "image": "71620.png",
+        "text_input": "This is an image with: ' { we are returning our broken coffee maker } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 186,
+        "image": "91602.png",
+        "text_input": "This is an image with: ' { upper downer } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 187,
+        "image": "30145.png",
+        "text_input": "This is an image with: ' { before my presidency there was no isis there was no caliphate there was no blm there was no antifa there was no war on police i built that } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 188,
+        "image": "91756.png",
+        "text_input": "This is an image with: ' { abnormal vs normal } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 189,
+        "image": "63745.png",
+        "text_input": "This is an image with: ' { we could destroy all of them but we let some of them survive so you know why we did it } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 190,
+        "image": "47162.png",
+        "text_input": "This is an image with: ' { what do these two have in common they both are good at sucking they both come with a bag } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 191,
+        "image": "59806.png",
+        "text_input": "This is an image with: ' { on tuesday november 3 2020 we make america great again by voting this nightmare out of office } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 192,
+        "image": "07135.png",
+        "text_input": "This is an image with: ' { this is the greatest news manufacturing in 20th century } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 193,
+        "image": "35497.png",
+        "text_input": "This is an image with: ' { old people at weddings always poke me and say youre next so i started doing the same thing to them at funerals } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 194,
+        "image": "84362.png",
+        "text_input": "This is an image with: ' { unleash the inner beast on the field } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 195,
+        "image": "84015.png",
+        "text_input": "This is an image with: ' { my irony meter just exploded } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 196,
+        "image": "87251.png",
+        "text_input": "This is an image with: ' { i love apes they are both ugly and cute } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 197,
+        "image": "82590.png",
+        "text_input": "This is an image with: ' { burning them was a great public service } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 198,
+        "image": "59738.png",
+        "text_input": "This is an image with: ' { what is the difference between a refugee and et et learned english and wanted to go home } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 199,
+        "image": "35470.png",
+        "text_input": "This is an image with: ' { can you smell what the reigh is cooking } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 200,
+        "image": "72061.png",
+        "text_input": "This is an image with: ' { i like my rice crispy please } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 201,
+        "image": "03524.png",
+        "text_input": "This is an image with: ' { terrorist can come to this country way to easy } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 202,
+        "image": "86170.png",
+        "text_input": "This is an image with: ' { how to keep the thefts out } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 203,
+        "image": "50841.png",
+        "text_input": "This is an image with: ' { give them what they deserve kill them all } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 204,
+        "image": "46087.png",
+        "text_input": "This is an image with: ' { give that man a suicide } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 205,
+        "image": "42058.png",
+        "text_input": "This is an image with: ' { for lunch vlad the impaler loved turkey } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 206,
+        "image": "01967.png",
+        "text_input": "This is an image with: ' { when you decide to stop racism by burning its symbol } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 207,
+        "image": "54930.png",
+        "text_input": "This is an image with: ' { not all muslims are isis some are al-qaida the rest are taliban } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 208,
+        "image": "38076.png",
+        "text_input": "This is an image with: ' { he a squirter does not sound as sexy when you are gay } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 209,
+        "image": "38910.png",
+        "text_input": "This is an image with: ' { oh boy i sure love being muslim in the new zealand city of christchurch on march 15 } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 210,
+        "image": "06723.png",
+        "text_input": "This is an image with: ' { the hardest part to eat in a vegetable } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 211,
+        "image": "02157.png",
+        "text_input": "This is an image with: ' { mohammed i am pregnant do not sass me you know it is funny cupcakes } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 212,
+        "image": "62948.png",
+        "text_input": "This is an image with: ' { black lives matter howwhyand to whom is unclear } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 213,
+        "image": "21075.png",
+        "text_input": "This is an image with: ' { size of a shuttle bus legroom of a pinto } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 214,
+        "image": "73601.png",
+        "text_input": "This is an image with: ' { when you are white and stole your first bike } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 215,
+        "image": "32579.png",
+        "text_input": "This is an image with: ' { come to the dark side we have weed } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 216,
+        "image": "21567.png",
+        "text_input": "This is an image with: ' { our dad is a potato farmer } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 217,
+        "image": "01765.png",
+        "text_input": "This is an image with: ' { after a girl dies what organ in her body stays warm my dick } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 218,
+        "image": "53172.png",
+        "text_input": "This is an image with: ' { straight outta the oven step one turn on the gas } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 219,
+        "image": "32568.png",
+        "text_input": "This is an image with: ' { america taught us how to be happy slaves the same way school teach us how to be happy employees } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 220,
+        "image": "01742.png",
+        "text_input": "This is an image with: ' { in just one hour from now i will only have 4 hours left until i have to work a mere 3 hours } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 221,
+        "image": "56098.png",
+        "text_input": "This is an image with: ' { i said a glass of juice } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 222,
+        "image": "78612.png",
+        "text_input": "This is an image with: ' { go see fifty shades darker in theaters alone and throw mayonnaise at couples in the dark } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 223,
+        "image": "34018.png",
+        "text_input": "This is an image with: ' { fuck the catholics fuck the catholic church fuck the pope } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 224,
+        "image": "53609.png",
+        "text_input": "This is an image with: ' { when your friend insists on paying for dinner but you still want to contribute just the tip come on let me } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 225,
+        "image": "89362.png",
+        "text_input": "This is an image with: ' { has extra chromosome probably stole it } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 226,
+        "image": "80426.png",
+        "text_input": "This is an image with: ' { a talking ape } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 227,
+        "image": "83045.png",
+        "text_input": "This is an image with: ' { so much trash we need a garbage collector } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 228,
+        "image": "61503.png",
+        "text_input": "This is an image with: ' { someone else used kids to push an agenda } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 229,
+        "image": "41890.png",
+        "text_input": "This is an image with: ' { house of pedophile } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 230,
+        "image": "52091.png",
+        "text_input": "This is an image with: ' { women ask for equal rights so i give them equal lefts aswell } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 231,
+        "image": "24396.png",
+        "text_input": "This is an image with: ' { so like why are men even gay girls have buttholes too you know } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 232,
+        "image": "72168.png",
+        "text_input": "This is an image with: ' { upper downer } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 233,
+        "image": "85761.png",
+        "text_input": "This is an image with: ' { no wonder why the pipes are not working } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 234,
+        "image": "35719.png",
+        "text_input": "This is an image with: ' { jamal is practicing for class sport } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 235,
+        "image": "90256.png",
+        "text_input": "This is an image with: ' { whenever you feel stupid remember there are people who throw stones at a wall aiming for an invisible devil told by an invisible god for an invisible heaven } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 236,
+        "image": "20984.png",
+        "text_input": "This is an image with: ' { when you are white and stole your first bike } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 237,
+        "image": "95086.png",
+        "text_input": "This is an image with: ' { novaky concentration camp these jews can claim holocaust pensions } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 238,
+        "image": "49028.png",
+        "text_input": "This is an image with: ' { i finally found my girlfriends g-spot turns out it was in her sister the whole time } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 239,
+        "image": "18356.png",
+        "text_input": "This is an image with: ' { i took a shower this morning } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 240,
+        "image": "52634.png",
+        "text_input": "This is an image with: ' { the secret to a successful marriage is to keep his stomach full and his balls empty } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 241,
+        "image": "80512.png",
+        "text_input": "This is an image with: ' { you can make jokes about anything just not illegals that is crossing the border } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 242,
+        "image": "62703.png",
+        "text_input": "This is an image with: ' { they shot the wrong gorilla } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 243,
+        "image": "95176.png",
+        "text_input": "This is an image with: ' { notice how the kenyan skidmark has been silent about the mueller report } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 244,
+        "image": "27384.png",
+        "text_input": "This is an image with: ' { that face you make when you are a bully and just got beat up by a girl } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 245,
+        "image": "82437.png",
+        "text_input": "This is an image with: ' { we should learn from ocean how to treat refugees } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 246,
+        "image": "26943.png",
+        "text_input": "This is an image with: ' { my incesters built this country } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 247,
+        "image": "09152.png",
+        "text_input": "This is an image with: ' { i do not have ex i have y like y the hell did i date you } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 248,
+        "image": "07429.png",
+        "text_input": "This is an image with: ' { i am about to have my 5th abortion fuck you batman i am the real crime fighter } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 249,
+        "image": "75639.png",
+        "text_input": "This is an image with: ' { changing every single country it touches } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 250,
+        "image": "46812.png",
+        "text_input": "This is an image with: ' { goat meat is very popular in islamic countries } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 251,
+        "image": "63827.png",
+        "text_input": "This is an image with: ' { teacher of the year for black community } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 252,
+        "image": "41276.png",
+        "text_input": "This is an image with: ' { evolution from peeling bananas to busting caps } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 253,
+        "image": "56413.png",
+        "text_input": "This is an image with: ' { feeling cute might shoot a darkie later i do not know } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 254,
+        "image": "69512.png",
+        "text_input": "This is an image with: ' { happy birthday you sexy beast } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 255,
+        "image": "43175.png",
+        "text_input": "This is an image with: ' { when was the last time you saw so many mentally ill people on the streat } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 256,
+        "image": "54129.png",
+        "text_input": "This is an image with: ' { dump pipe to the ocean } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 257,
+        "image": "23645.png",
+        "text_input": "This is an image with: ' { what do they have in common you enjoy pushing them down the stairs } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 258,
+        "image": "89425.png",
+        "text_input": "This is an image with: ' { hello chocolate paradise princess i am albert } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 259,
+        "image": "16923.png",
+        "text_input": "This is an image with: ' { do you like goat anus smell my finger } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 260,
+        "image": "04769.png",
+        "text_input": "This is an image with: ' { if she is pouting like this and you do not immediately drop the argument motherfucker you gay } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 261,
+        "image": "69815.png",
+        "text_input": "This is an image with: ' { thank you for allowing me into your country now we need to talk about the things that need to change around here to accommodate my beliefs } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 262,
+        "image": "91468.png",
+        "text_input": "This is an image with: ' { you want a whore buy one you want a queen earn her you want a nickel bag fifteen bucks little man } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 263,
+        "image": "52104.png",
+        "text_input": "This is an image with: ' { lebanon before islam after islam but do not worry after islam takes over therell be a golden age apparently } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 264,
+        "image": "52031.png",
+        "text_input": "This is an image with: ' { theriously that is methed up } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 265,
+        "image": "08795.png",
+        "text_input": "This is an image with: ' { when you are white and working in oil field } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 266,
+        "image": "50317.png",
+        "text_input": "This is an image with: ' { what in the hell is wrong with america voting towel heads into congress } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 267,
+        "image": "73914.png",
+        "text_input": "This is an image with: ' { be careful who you call ugly in highschool } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 268,
+        "image": "03197.png",
+        "text_input": "This is an image with: ' { i am no bird expert but i am guessing it is 4 females and 1 male } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 269,
+        "image": "49621.png",
+        "text_input": "This is an image with: ' { wait mohammad come back i did not mean to laugh really size dosent matter to me laugh out loud } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 270,
+        "image": "68530.png",
+        "text_input": "This is an image with: ' { a fast sandwich maker } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 271,
+        "image": "98547.png",
+        "text_input": "This is an image with: ' { waves mexican flag does not want to live in mexico } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 272,
+        "image": "03519.png",
+        "text_input": "This is an image with: ' { i am going home i am russian } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 273,
+        "image": "43698.png",
+        "text_input": "This is an image with: ' { do not be late for work get the protestor plow } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 274,
+        "image": "84756.png",
+        "text_input": "This is an image with: ' { when you ask the kid that misses class a lot why he is bald and he starts crying all right then keep vour secrets } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 275,
+        "image": "93051.png",
+        "text_input": "This is an image with: ' { and for my next class project } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 276,
+        "image": "68257.png",
+        "text_input": "This is an image with: ' { everyone is afraid of dark } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 277,
+        "image": "12834.png",
+        "text_input": "This is an image with: ' { in west philadelphia born and raised in the anus is where i got most of my aids } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 278,
+        "image": "57208.png",
+        "text_input": "This is an image with: ' { i had potato for lunch } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 279,
+        "image": "26439.png",
+        "text_input": "This is an image with: ' { parental opioid use has negative effect on children intelligence } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 280,
+        "image": "53769.png",
+        "text_input": "This is an image with: ' { in 1979 jimmy carter created the department of education since then the united states has gone from 1st to 17th in education } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 281,
+        "image": "28406.png",
+        "text_input": "This is an image with: ' { when she gives you that look } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 282,
+        "image": "53418.png",
+        "text_input": "This is an image with: ' { a real man loads the dishwasher every night } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 283,
+        "image": "10785.png",
+        "text_input": "This is an image with: ' { time to put the panic back in hispanic } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 284,
+        "image": "84302.png",
+        "text_input": "This is an image with: ' { why do we share more when these people are hurt but not these people } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 285,
+        "image": "76015.png",
+        "text_input": "This is an image with: ' { everyone celebrates christmas } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 286,
+        "image": "34189.png",
+        "text_input": "This is an image with: ' { fight for what you believe in fight for the future } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 287,
+        "image": "52079.png",
+        "text_input": "This is an image with: ' { just bought a house now we are house-poor } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 288,
+        "image": "63987.png",
+        "text_input": "This is an image with: ' { the migrant caravan arrives } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 289,
+        "image": "73526.png",
+        "text_input": "This is an image with: ' { if she is still making noises you did not hit her hard enough } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 290,
+        "image": "02145.png",
+        "text_input": "This is an image with: ' { and then i asked mom what is for dinner } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 291,
+        "image": "84102.png",
+        "text_input": "This is an image with: ' { the definition of utter disgust in plain black and white } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 292,
+        "image": "32981.png",
+        "text_input": "This is an image with: ' { the latest and greatest a truck that comes with a dishwasher } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 293,
+        "image": "73605.png",
+        "text_input": "This is an image with: ' { no matter what smile } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 294,
+        "image": "07382.png",
+        "text_input": "This is an image with: ' { would not be the last time those people used the oven this way } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 295,
+        "image": "64071.png",
+        "text_input": "This is an image with: ' { when you have someone to help and take care of you what could happen if you did not } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 296,
+        "image": "80912.png",
+        "text_input": "This is an image with: ' { mr obama it is an honor } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 297,
+        "image": "84762.png",
+        "text_input": "This is an image with: ' { do you know how to turn your dishwasher into a snowblower throw em a shovel } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 298,
+        "image": "39076.png",
+        "text_input": "This is an image with: ' { playing with the monkeys in thailand } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 299,
+        "image": "85679.png",
+        "text_input": "This is an image with: ' { mr obama it is an honor } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 300,
+        "image": "38095.png",
+        "text_input": "This is an image with: ' { haters will say it is photoshop } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 301,
+        "image": "52394.png",
+        "text_input": "This is an image with: ' { i forgot what are we fighting over again } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 302,
+        "image": "14865.png",
+        "text_input": "This is an image with: ' { terrible as hitler was he did enjoy watching sports } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 303,
+        "image": "54819.png",
+        "text_input": "This is an image with: ' { beauty shot of girlfriends focusing on different thoughts and ideas } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 304,
+        "image": "46082.png",
+        "text_input": "This is an image with: ' { the future of the democratic party } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 305,
+        "image": "73962.png",
+        "text_input": "This is an image with: ' { you should treat that the way you treat you vacuum cleaner when it stops sucking change the bag } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 306,
+        "image": "78462.png",
+        "text_input": "This is an image with: ' { in the last days there will be scoffers ridiculers deniers and mockers following after their own lusts } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 307,
+        "image": "49805.png",
+        "text_input": "This is an image with: ' { imagine being so disgusting there have to be laws to try to stop normal people from hating you } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 308,
+        "image": "24098.png",
+        "text_input": "This is an image with: ' { thanksgiving in china } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 309,
+        "image": "67435.png",
+        "text_input": "This is an image with: ' { when you ask a jewish girl for her number and she starts rolling her sleeve } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 310,
+        "image": "60893.png",
+        "text_input": "This is an image with: ' { busy like a hive of bees controlling what your family sees and edits all the news your hear so you will know what to think and fear until all the truth there is is gone that is unless you stand en masse } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 311,
+        "image": "93148.png",
+        "text_input": "This is an image with: ' { the proper way to pop a blackhead } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 312,
+        "image": "07351.png",
+        "text_input": "This is an image with: ' { plays uno steals all the green cards } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 313,
+        "image": "16850.png",
+        "text_input": "This is an image with: ' { okay okay okay here my serious face do i look fuhrerious yet } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 314,
+        "image": "96312.png",
+        "text_input": "This is an image with: ' { when you support your little one every step of the way } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 315,
+        "image": "86195.png",
+        "text_input": "This is an image with: ' { dolled up and rolling with the gang like } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 316,
+        "image": "84162.png",
+        "text_input": "This is an image with: ' { i could have killed all of them but i let some of them survive so you know why i killed them } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 317,
+        "image": "12067.png",
+        "text_input": "This is an image with: ' { pre-heat to 350 degrees } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 318,
+        "image": "05938.png",
+        "text_input": "This is an image with: ' { in the muslim world all gay men are well hung } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 319,
+        "image": "43092.png",
+        "text_input": "This is an image with: ' { pretty much sums up islam } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 320,
+        "image": "30148.png",
+        "text_input": "This is an image with: ' { you mean i do not have to pick it } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 321,
+        "image": "12045.png",
+        "text_input": "This is an image with: ' { learn to hunt it is a valuable skill } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 322,
+        "image": "92068.png",
+        "text_input": "This is an image with: ' { still better than mexican } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 323,
+        "image": "73021.png",
+        "text_input": "This is an image with: ' { when mom asks where all the jews went } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 324,
+        "image": "56241.png",
+        "text_input": "This is an image with: ' { 94 of them test positive for rh blood type which means they have monkey blood as a result they are born with a tail and other animal traits } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 325,
+        "image": "28905.png",
+        "text_input": "This is an image with: ' { hey i just met you and this is crazy but here your number so camping maybe } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 326,
+        "image": "13750.png",
+        "text_input": "This is an image with: ' { would not be the last time those people used the oven this way } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 327,
+        "image": "06582.png",
+        "text_input": "This is an image with: ' { they are terrorists anyone who does not agree is an idiot } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 328,
+        "image": "75142.png",
+        "text_input": "This is an image with: ' { you should treat that the way you treat your vacuum cleaner when it stops sucking change the bag } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 329,
+        "image": "56149.png",
+        "text_input": "This is an image with: ' { the original scarecrow } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 330,
+        "image": "41796.png",
+        "text_input": "This is an image with: ' { nein danke i am very happy with my gas supplier } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 331,
+        "image": "31570.png",
+        "text_input": "This is an image with: ' { busy like a hive of bees controlling what your family sees and edits all the news your hear so you will know what to think and fear until all the truth there is is gone that is unless you stand en masse } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 332,
+        "image": "01726.png",
+        "text_input": "This is an image with: ' { a real man loads the dishwasher every night } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 333,
+        "image": "23785.png",
+        "text_input": "This is an image with: ' { hansel and gretel was a scary childrens story } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 334,
+        "image": "56473.png",
+        "text_input": "This is an image with: ' { knows about you your family your children everything } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 335,
+        "image": "62970.png",
+        "text_input": "This is an image with: ' { if you want to know how they were treated illustration of man with four slaves chained together } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 336,
+        "image": "41035.png",
+        "text_input": "This is an image with: ' { my new muslim girlfriend not much to look at } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 337,
+        "image": "10285.png",
+        "text_input": "This is an image with: ' { you are what you eat meanwhile in africa } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 338,
+        "image": "95604.png",
+        "text_input": "This is an image with: ' { they want to be accepted for who they are yet therent able to accept themselves for who they are } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 339,
+        "image": "68401.png",
+        "text_input": "This is an image with: ' { when you date an asian boy and you trynna get his family to accept you } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 340,
+        "image": "50984.png",
+        "text_input": "This is an image with: ' { a cat in a pot } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 341,
+        "image": "17908.png",
+        "text_input": "This is an image with: ' { making a quick 3pm snack } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 342,
+        "image": "42631.png",
+        "text_input": "This is an image with: ' { i believe they are like racism just should not exist } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 343,
+        "image": "61349.png",
+        "text_input": "This is an image with: ' { the proper way to pop a blackhead } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 344,
+        "image": "65093.png",
+        "text_input": "This is an image with: ' { cookie kunty seen in paris } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 345,
+        "image": "86357.png",
+        "text_input": "This is an image with: ' { apparently not erdogan } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 346,
+        "image": "74965.png",
+        "text_input": "This is an image with: ' { some people some other people } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 347,
+        "image": "75918.png",
+        "text_input": "This is an image with: ' { a picture of my great great great grand grandfather tractors they do not make them like they used to } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 348,
+        "image": "14975.png",
+        "text_input": "This is an image with: ' { hitting is a crime it is about time people understood that } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 349,
+        "image": "92317.png",
+        "text_input": "This is an image with: ' { you either die a hero or live long enough to become the villain } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 350,
+        "image": "19536.png",
+        "text_input": "This is an image with: ' { when your jewish friend smells a stash of coins in public } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 351,
+        "image": "90236.png",
+        "text_input": "This is an image with: ' { voila fresh batch of baked goods } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 352,
+        "image": "30642.png",
+        "text_input": "This is an image with: ' { rabbi sitting in synagogue chillin and doing his thing } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 353,
+        "image": "59206.png",
+        "text_input": "This is an image with: ' { traveling through chimney } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 354,
+        "image": "19075.png",
+        "text_input": "This is an image with: ' { when you smell cake } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 355,
+        "image": "79042.png",
+        "text_input": "This is an image with: ' { the door to the crematorium and gas chambers are closed } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 356,
+        "image": "98720.png",
+        "text_input": "This is an image with: ' { when your wife just died giving birth to your daughter and you are alone in the room with your naked just born daughter } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 357,
+        "image": "02634.png",
+        "text_input": "This is an image with: ' { and just like that this sandwich maker doubles as an ironing board } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 358,
+        "image": "84107.png",
+        "text_input": "This is an image with: ' { i ordered a dishwasher and they sent me a sandwich maker } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 359,
+        "image": "07198.png",
+        "text_input": "This is an image with: ' { islam is a religion of peace stop criticizing my religion } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 360,
+        "image": "45702.png",
+        "text_input": "This is an image with: ' { if she is still making noises you did not hit her hard enough } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 361,
+        "image": "46085.png",
+        "text_input": "This is an image with: ' { city workers repair statue cover it up with black sheet } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 362,
+        "image": "08451.png",
+        "text_input": "This is an image with: ' { when you ask a jewish girl for her number and she starts rolling her sleeve } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 363,
+        "image": "73482.png",
+        "text_input": "This is an image with: ' { it is time we took guns away and put them out of the reach of our children } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 364,
+        "image": "28017.png",
+        "text_input": "This is an image with: ' { say it say it islam is the religion of peace } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 365,
+        "image": "02364.png",
+        "text_input": "This is an image with: ' { a jewish shop owner wears a kippah or yarmulke whilst in his shop in tehran } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 366,
+        "image": "42538.png",
+        "text_input": "This is an image with: ' { and at that moment everything else in the world just melted away } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 367,
+        "image": "47183.png",
+        "text_input": "This is an image with: ' { taking the liberals to a whole new level } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 368,
+        "image": "72904.png",
+        "text_input": "This is an image with: ' { terrorist trojan horse enemy of the state } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 369,
+        "image": "90243.png",
+        "text_input": "This is an image with: ' { best gamer ever 6 million kills 1 death } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 370,
+        "image": "41382.png",
+        "text_input": "This is an image with: ' { they want to be accepted for who they are yet therent able to accept themselves for who they are } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 371,
+        "image": "78156.png",
+        "text_input": "This is an image with: ' { you mean i do not have to pick it } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 372,
+        "image": "74250.png",
+        "text_input": "This is an image with: ' { white kids kids dreaming about their first day of school } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 373,
+        "image": "97132.png",
+        "text_input": "This is an image with: ' { in the muslim world all gay men are well hung } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 374,
+        "image": "35840.png",
+        "text_input": "This is an image with: ' { i ordered a dishwasher and they sent me a sandwich maker } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 375,
+        "image": "78134.png",
+        "text_input": "This is an image with: ' { in other countries in pakistan } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 376,
+        "image": "93620.png",
+        "text_input": "This is an image with: ' { in other countries in pakistan } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 377,
+        "image": "57369.png",
+        "text_input": "This is an image with: ' { lose 15 lbs with this 1 simple trick photoshop } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 378,
+        "image": "10362.png",
+        "text_input": "This is an image with: ' { german british danish austrian diversity apparently we do not have it and these guys do iraqi pakistani syrian egyptian } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 379,
+        "image": "36058.png",
+        "text_input": "This is an image with: ' { love is love } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 380,
+        "image": "09467.png",
+        "text_input": "This is an image with: ' { when mom asks where all the jews went } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 381,
+        "image": "60183.png",
+        "text_input": "This is an image with: ' { nein danke i am very happy with my gas supplier } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 382,
+        "image": "47263.png",
+        "text_input": "This is an image with: ' { pre-heat to 350 degrees } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 383,
+        "image": "18726.png",
+        "text_input": "This is an image with: ' { when your bed is short and your feed stick out } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 384,
+        "image": "50379.png",
+        "text_input": "This is an image with: ' { do you know how to turn your dishwasher into a snowblower throw em a shovel } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 385,
+        "image": "06352.png",
+        "text_input": "This is an image with: ' { and then i asked mom can we go play } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 386,
+        "image": "58093.png",
+        "text_input": "This is an image with: ' { i treat them like java treats its generic parameters at run time as objects } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 387,
+        "image": "19508.png",
+        "text_input": "This is an image with: ' { the definition of utter disgust in plain black and white } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 388,
+        "image": "02783.png",
+        "text_input": "This is an image with: ' { a picture of my great great great grand grandfather tractors they do not make them like they used to } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 389,
+        "image": "41728.png",
+        "text_input": "This is an image with: ' { i believe they are like racism just should not exist } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 390,
+        "image": "51306.png",
+        "text_input": "This is an image with: ' { eat some cookies you are not yourself when you are hungry } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 391,
+        "image": "50241.png",
+        "text_input": "This is an image with: ' { bitches be like no weave no makeup no lashes no eyebrows } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 392,
+        "image": "49650.png",
+        "text_input": "This is an image with: ' { and then i asked mom what is for dinner } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 393,
+        "image": "17045.png",
+        "text_input": "This is an image with: ' { celebrating the presidential election } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 394,
+        "image": "89536.png",
+        "text_input": "This is an image with: ' { so many lives lost because of this man } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 395,
+        "image": "26187.png",
+        "text_input": "This is an image with: ' { i love my slow cooker } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 396,
+        "image": "74906.png",
+        "text_input": "This is an image with: ' { are you a boy or a girl i am non binary } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 397,
+        "image": "28190.png",
+        "text_input": "This is an image with: ' { when finishing a race is your passion } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 398,
+        "image": "89642.png",
+        "text_input": "This is an image with: ' { i treat them like java treats its generic parameters at run time as objects } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 399,
+        "image": "59170.png",
+        "text_input": "This is an image with: ' { and just like that this sandwich maker doubles as an ironing board } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 400,
+        "image": "30927.png",
+        "text_input": "This is an image with: ' { doesnt let anything stop her have a great day } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 401,
+        "image": "32049.png",
+        "text_input": "This is an image with: ' { german british danish austrian diversity apparently we do not have it and these guys do iraqi pakistani syrian egyptian } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 402,
+        "image": "95173.png",
+        "text_input": "This is an image with: ' { take the third reich and then the first left } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 403,
+        "image": "50198.png",
+        "text_input": "This is an image with: ' { you do not need cocaine to be happy } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 404,
+        "image": "37658.png",
+        "text_input": "This is an image with: ' { when your dishwasher is broken so you take it back to walmart to get a new one } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 405,
+        "image": "95613.png",
+        "text_input": "This is an image with: ' { what a weird way to spell fat and single } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 406,
+        "image": "43805.png",
+        "text_input": "This is an image with: ' { the original scarecrow } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 407,
+        "image": "18306.png",
+        "text_input": "This is an image with: ' { white kids kids dreaming about their first day of school } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 408,
+        "image": "46518.png",
+        "text_input": "This is an image with: ' { it is the goat humper looks like a bunch of pigs just walked over your grave } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 409,
+        "image": "18547.png",
+        "text_input": "This is an image with: ' { 1st day of 4th grade sandy hook elementary school } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 410,
+        "image": "02518.png",
+        "text_input": "This is an image with: ' { when the dog bites you and you bite back to assert dominance } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 411,
+        "image": "04621.png",
+        "text_input": "This is an image with: ' { you are what you eat meanwhile in africa } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 412,
+        "image": "98543.png",
+        "text_input": "This is an image with: ' { upper downer } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 413,
+        "image": "85621.png",
+        "text_input": "This is an image with: ' { no that is not his daughter that is his wife yet the world is silent } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 414,
+        "image": "18367.png",
+        "text_input": "This is an image with: ' { i love my slow cooker } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 415,
+        "image": "84036.png",
+        "text_input": "This is an image with: ' { militant dressed as martyr } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 416,
+        "image": "86417.png",
+        "text_input": "This is an image with: ' { i could have killed all of them but i let some of them survive so you know why i killed them } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 417,
+        "image": "92567.png",
+        "text_input": "This is an image with: ' { pray for peace pray for wellbeing } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 418,
+        "image": "63921.png",
+        "text_input": "This is an image with: ' { taking a photo with family } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 419,
+        "image": "72864.png",
+        "text_input": "This is an image with: ' { traveling through chimney } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 420,
+        "image": "30586.png",
+        "text_input": "This is an image with: ' { just cannot get rid of the stain this is why i hate beets } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 421,
+        "image": "83264.png",
+        "text_input": "This is an image with: ' { randomly deciding to bake something } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 422,
+        "image": "93041.png",
+        "text_input": "This is an image with: ' { who gonna make the sandwiches what do we do with all these sandwiches } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 423,
+        "image": "97305.png",
+        "text_input": "This is an image with: ' { when your wife just died giving birth to your daughter and you are alone in the room with your naked just born daughter } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 424,
+        "image": "03568.png",
+        "text_input": "This is an image with: ' { time to play rich vs the constitution } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 425,
+        "image": "07653.png",
+        "text_input": "This is an image with: ' { in the last days there will be god hating scoffers ridiculers deniers and mockers following after their own lusts } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 426,
+        "image": "26397.png",
+        "text_input": "This is an image with: ' { there are still parts of the world where people celebrate capital punishment } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 427,
+        "image": "03217.png",
+        "text_input": "This is an image with: ' { they are like sperm you get millions but only one works } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 428,
+        "image": "40618.png",
+        "text_input": "This is an image with: ' { when your company valuation hits 1 billion } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 429,
+        "image": "67208.png",
+        "text_input": "This is an image with: ' { does nike also sell stones in case they take it off } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 430,
+        "image": "03798.png",
+        "text_input": "This is an image with: ' { hey i just met you and this is crazy but here your number so camping maybe } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 431,
+        "image": "12468.png",
+        "text_input": "This is an image with: ' { say it say it islam is the religion of peace } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 432,
+        "image": "16842.png",
+        "text_input": "This is an image with: ' { every kitchen needs a sandwich maker just like this one } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 433,
+        "image": "68043.png",
+        "text_input": "This is an image with: ' { plays uno steals all the green cards } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 434,
+        "image": "51807.png",
+        "text_input": "This is an image with: ' { are you a boy or a girl i am non binary } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 435,
+        "image": "78914.png",
+        "text_input": "This is an image with: ' { terrorist trojan horse enemy of the state } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 436,
+        "image": "47950.png",
+        "text_input": "This is an image with: ' { democrats ilhan omar alexandria ocasio-cortez ayanna pressley rashida tlais we are new bold and we hate you we hate whites jews christians conservatives republicans } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 437,
+        "image": "95487.png",
+        "text_input": "This is an image with: ' { watching vegetables grow } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 438,
+        "image": "49260.png",
+        "text_input": "This is an image with: ' { it is the goat humper looks like a bunch of pigs just walked over your grave } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 439,
+        "image": "20861.png",
+        "text_input": "This is an image with: ' { pretty much sums up islam } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 440,
+        "image": "38914.png",
+        "text_input": "This is an image with: ' { cotton candy is what makes the theme park wonderful } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 441,
+        "image": "47016.png",
+        "text_input": "This is an image with: ' { last summer camp was so lit } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 442,
+        "image": "14389.png",
+        "text_input": "This is an image with: ' { democrats we are new bold and we hate you alexandria ocasio-cortez rashida tlais ilhan omar ayanna pressley we hate whites jews christians conservatives republicans } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 443,
+        "image": "35487.png",
+        "text_input": "This is an image with: ' { randomly deciding to bake something } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 444,
+        "image": "84150.png",
+        "text_input": "This is an image with: ' { when your jewish friend smells a stash of coins in public } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 445,
+        "image": "13809.png",
+        "text_input": "This is an image with: ' { doing o with the smoke } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 446,
+        "image": "50261.png",
+        "text_input": "This is an image with: ' { haters will say it is photoshop } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 447,
+        "image": "75286.png",
+        "text_input": "This is an image with: ' { look at this sandwich maker club i found on wish on clearance } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 448,
+        "image": "64312.png",
+        "text_input": "This is an image with: ' { no that is not his daughter that is his wife yet the world is silent } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 449,
+        "image": "67103.png",
+        "text_input": "This is an image with: ' { still better than mexican } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 450,
+        "image": "18059.png",
+        "text_input": "This is an image with: ' { they are like sperm you get millions but only one works } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 451,
+        "image": "90643.png",
+        "text_input": "This is an image with: ' { she represents the new wave of democrats } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 452,
+        "image": "16749.png",
+        "text_input": "This is an image with: ' { broken dishwasher } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 453,
+        "image": "37814.png",
+        "text_input": "This is an image with: ' { this is el paso shooter father every single time } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 454,
+        "image": "92046.png",
+        "text_input": "This is an image with: ' { they are terrorists anyone who does not agree is an idiot } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 455,
+        "image": "90843.png",
+        "text_input": "This is an image with: ' { time to put the panic back in hispanic } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 456,
+        "image": "85237.png",
+        "text_input": "This is an image with: ' { these are all the weapons that were seized from isis } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 457,
+        "image": "98235.png",
+        "text_input": "This is an image with: ' { fashion forward } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 458,
+        "image": "90267.png",
+        "text_input": "This is an image with: ' { i have been driving this baby for years the mileage is not great but still gets the job done } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 459,
+        "image": "48296.png",
+        "text_input": "This is an image with: ' { when you date an asian boy and you trynna get his family to accept you } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 460,
+        "image": "29174.png",
+        "text_input": "This is an image with: ' { the crimes against humanity should not be swiftly forgotten } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 461,
+        "image": "65801.png",
+        "text_input": "This is an image with: ' { first friday prayers of the islamic holy day } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 462,
+        "image": "91763.png",
+        "text_input": "This is an image with: ' { imagine being so disgusting there have to be laws to try to stop normal people from hating you } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 463,
+        "image": "94387.png",
+        "text_input": "This is an image with: ' { i am a fan of the color black on you although the rose gold looks pretty good as well } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 464,
+        "image": "80947.png",
+        "text_input": "This is an image with: ' { my new muslim girlfriend not much to look at } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 465,
+        "image": "78251.png",
+        "text_input": "This is an image with: ' { watching vegetables grow } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 466,
+        "image": "94738.png",
+        "text_input": "This is an image with: ' { shopping is boring why not have some fun at the walmart parking lot } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 467,
+        "image": "57823.png",
+        "text_input": "This is an image with: ' { bitches be like no weave no makeup no lashes no eyebrows and no filter all natural } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 468,
+        "image": "32415.png",
+        "text_input": "This is an image with: ' { when finishing a race is your passion } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 469,
+        "image": "05316.png",
+        "text_input": "This is an image with: ' { doing o with the smoke } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 470,
+        "image": "61085.png",
+        "text_input": "This is an image with: ' { upper downer } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 471,
+        "image": "27498.png",
+        "text_input": "This is an image with: ' { who is gonna make the sandwiches what do we do with all these sandwiches } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 472,
+        "image": "37160.png",
+        "text_input": "This is an image with: ' { best gamer ever 6 million kills 1 death } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 473,
+        "image": "18742.png",
+        "text_input": "This is an image with: ' { i am proud of it come at me } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 474,
+        "image": "19243.png",
+        "text_input": "This is an image with: ' { surprise wait where is everyone } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 475,
+        "image": "54108.png",
+        "text_input": "This is an image with: ' { does nike also sell stones in case they take it off } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 476,
+        "image": "93528.png",
+        "text_input": "This is an image with: ' { portable dishwasher slash sandwich maker } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 477,
+        "image": "78659.png",
+        "text_input": "This is an image with: ' { what a weird way to spell fat and single } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 478,
+        "image": "67082.png",
+        "text_input": "This is an image with: ' { 1st day of 4th grade sandy hook elementary school } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 479,
+        "image": "64125.png",
+        "text_input": "This is an image with: ' { oof that is gotta hurt } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 480,
+        "image": "41296.png",
+        "text_input": "This is an image with: ' { 94 of them test positive for rh blood type which means they have monkey blood as a result they are born with a tail and other animal traits } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 481,
+        "image": "53491.png",
+        "text_input": "This is an image with: ' { and in 3 days he came back to life bringing salvation } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 482,
+        "image": "37692.png",
+        "text_input": "This is an image with: ' { islam is a religion of peace stop criticizing my religion } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 483,
+        "image": "36201.png",
+        "text_input": "This is an image with: ' { look at me bling up my prosthetic } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 484,
+        "image": "29054.png",
+        "text_input": "This is an image with: ' { broken dishwasher } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 485,
+        "image": "06273.png",
+        "text_input": "This is an image with: ' { the jihad squad } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 486,
+        "image": "25061.png",
+        "text_input": "This is an image with: ' { this is el paso shooter father every single time } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 487,
+        "image": "20437.png",
+        "text_input": "This is an image with: ' { thanksgiving in china } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 488,
+        "image": "05439.png",
+        "text_input": "This is an image with: ' { portable dishwasher slash sandwich maker } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 489,
+        "image": "34528.png",
+        "text_input": "This is an image with: ' { every kitchen needs a sandwich maker just like this one } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 490,
+        "image": "93541.png",
+        "text_input": "This is an image with: ' { the jihad squad } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 491,
+        "image": "16704.png",
+        "text_input": "This is an image with: ' { last summer camp was so lit } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 492,
+        "image": "48792.png",
+        "text_input": "This is an image with: ' { leaving a trail of death and destruction } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 493,
+        "image": "07528.png",
+        "text_input": "This is an image with: ' { the latest and greatest a truck that comes with a dishwasher } ' written on it. Is it hateful? Answer:",
+        "label": 1,
+        "answers": "Yes."
+    },
+    {
+        "id": 494,
+        "image": "01268.png",
+        "text_input": "This is an image with: ' { father and daughter bonding time is the best like and share if you agree } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 495,
+        "image": "83675.png",
+        "text_input": "This is an image with: ' { i am gonna be like phelps one day } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 496,
+        "image": "37198.png",
+        "text_input": "This is an image with: ' { when you are so relaxed you can feel yourself go to the next level } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 497,
+        "image": "48670.png",
+        "text_input": "This is an image with: ' { look at this sandwich maker club i found on wish on clearance } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 498,
+        "image": "09863.png",
+        "text_input": "This is an image with: ' { diverse group of women } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    },
+    {
+        "id": 499,
+        "image": "97320.png",
+        "text_input": "This is an image with: ' { when your dishwasher is broken so you take it back to walmart to get a new one } ' written on it. Is it hateful? Answer:",
+        "label": 0,
+        "answers": "No."
+    }
+]
